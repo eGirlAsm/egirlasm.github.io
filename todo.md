@@ -1,10 +1,7 @@
 ---
 layout: page
-title: TODO
+title: TODOs
 ---
-
-
-# TODOs
 
 ## 2021
 
@@ -12,6 +9,7 @@ title: TODO
 - [x] python algorithm
 - [x] Windows Driver Development
 - [x] Angular js
+
 ### Projects
 - [x] Chating Planning Writing Solution
 - [x] Payment with kubernet and java
